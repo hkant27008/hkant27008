@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Harshit Kant! 👋
 
-<!--
-**hkant27008/hkant27008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate Software Engineer and Data Analyst based in Boston, MA.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+
+---
+
+## 📈 GitHub Stats
+
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkant27008&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contact Me
+
+- Email: [kant.h@northeastern.edu](mailto:kant.h@northeastern.edu)
+- LinkedIn: [Harshit Kant](https://www.linkedin.com/in/harshit-kant/)
