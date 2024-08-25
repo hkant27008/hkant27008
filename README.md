@@ -1,6 +1,6 @@
 # Hi there, I'm Harshit Kant! 👋
 
-I’m a passionate Software Engineer and Data Analyst based in Boston, MA.
+I’m a passionate Mern Stack Software Engineer based in Boston, MA 🏡.
 
 ---
 
