@@ -29,6 +29,11 @@ I’m a passionate Mern Stack Software Engineer based in Boston, MA 🏡.
 
 ---
 
+## 📊 GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=hkant27008&theme=radical)](https://git.io/streak-stats)
+
+---
+
 ## 📫 Contact Me
 
 - Email: [kant.h@northeastern.edu](mailto:kant.h@northeastern.edu)
