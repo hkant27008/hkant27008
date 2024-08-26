@@ -26,4 +26,4 @@ I’m a passionate Mern Stack Software Engineer based in Boston, MA 🏡.
 ## 📫 Contact Me
 
 - Email: [kant.h@northeastern.edu](mailto:kant.h@northeastern.edu)
-- LinkedIn: [Harshit Kant](https://www.linkedin.com/in/harshit-kant/)
+- LinkedIn: [Harshit Kant](https://www.linkedin.com/in/harshit-kant-hk-0a87864b/)
