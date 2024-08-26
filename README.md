@@ -18,7 +18,6 @@ I’m a passionate Mern Stack Software Engineer based in Boston, MA 🏡.
 ---
 
 ## 📈 GitHub Stats
-
 ![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkant27008&show_icons=true&theme=radical)
 
 ---
