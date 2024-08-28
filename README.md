@@ -1,6 +1,17 @@
 # Hi there, I'm Harshit Kant! 👋
 
-I’m a passionate Mern Stack Software Engineer based in Boston, MA 🏡.
+I’m a passionate MERN Stack Software Engineer based in Boston, MA 🏡, currently pursuing a Master of Science in Information Systems at Northeastern University. I have a strong interest in Front-End Engineering, Test Automation, and Quality Assurance (QA).
+
+🛠 What I Do:
+💻 MERN Stack Development: I love working with React, Node.js, and other modern web technologies to build dynamic and user-friendly applications.
+🤖 Test Automation & QA: I have extensive experience in Automation Testing and Software Validation, ensuring the highest quality in software delivery.
+🌱 Currently Learning:
+Advanced Test Automation frameworks and techniques with Javascript.
+
+🌐 Let’s Connect:
+LinkedIn: Harshit Kant
+GitHub: github.com/hkant27008
+Email: kant.h@northeastern.edu
 
 ---
 
