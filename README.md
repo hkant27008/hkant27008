@@ -8,11 +8,6 @@ I’m a passionate MERN Stack Software Engineer based in Boston, MA 🏡, curren
 🌱 Currently Learning:
 Test Automation frameworks and techniques with Javascript.
 
-🌐 Let’s Connect:
-LinkedIn: [https://www.linkedin.com/in/harshit-kant-hk-0a87864b/]
-GitHub: github.com/hkant27008
-Email: kant.h@northeastern.edu
-
 ---
 
 ## 🔧 Technologies & Tools
