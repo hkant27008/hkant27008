@@ -56,3 +56,11 @@ Analysed Movie Data streamed on netflix using Pandas, Numpy
 
 - Email: [kant.h@northeastern.edu](mailto:kant.h@northeastern.edu)
 - LinkedIn: [Harshit Kant](https://www.linkedin.com/in/harshit-kant-hk-0a87864b/)
+
+---
+
+### 📝 Recent Posts:
+<!-- BLOG-POST-LIST:START -->
+- [How I improved my GitHub profile](https://www.linkedin.com/feed/update/urn:li:activity:7233659266694291457/)
+- [Computer and Words - Crafting a Tech Odyssey in Blogs](https://www.linkedin.com/pulse/computer-words-crafting-tech-odyssey-blogs-harshit-kant-qfbpe/)
+<!-- BLOG-POST-LIST:END -->
