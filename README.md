@@ -36,6 +36,7 @@ Test Automation frameworks and techniques with Javascript.
 
 ## 📈 GitHub Stats
 ![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkant27008&show_icons=true&theme=radical)
+![Harshit's GitHub stats]([https://github-readme-stats.vercel.app/api?username=hkant27008&show_icons=true&theme=radical](https://vercel.com/hkant27008s-projects/paypal-redesign/2cBp87n4HamZ39yrCT1HyprVK2eN))
 
 ---
 
