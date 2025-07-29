@@ -64,6 +64,13 @@ A comprehensive Page Object Model framework for end-to-end testing of e-commerce
 - [**View Repository**](https://github.com/hkant27008/amazon-test-intelligence) | [**Documentation**](https://github.com/hkant27008/amazon-test-intelligence/blob/main/README.md)
 
 ---
+
+## 📈 GitHub Stats
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkant27008&show_icons=true&theme=radical)
+![Harshit's GitHub stats]([https://github-readme-stats.vercel.app/api?username=hkant27008&show_icons=true&theme=radical](https://vercel.com/hkant27008s-projects/paypal-redesign/2cBp87n4HamZ39yrCT1HyprVK2eN))
+
+---
+
 ## 📊 GitHub Activity
 
 ![GitHub followers](https://img.shields.io/github/followers/hkant27008?style=social)
