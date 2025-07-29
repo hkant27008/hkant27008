@@ -61,28 +61,7 @@ A comprehensive Page Object Model framework for end-to-end testing of e-commerce
 - **Tech Stack**: Python, Playwright, pytest
 - **Features**: Parallel execution, smart waits, detailed reporting
 - **Impact**: 50% reduction in test maintenance, 100% pass rate on critical user journeys
-- [**View Repository**](https://github.com/hkant27008/ecommerce-test-framework) | [**Documentation**](link-to-docs)
-
-### 2. **API Test Automation Suite** 🔌
-RESTful API testing framework with automated contract testing and performance benchmarking.
-- **Tech Stack**: JavaScript, Postman/Newman, Mocha
-- **Features**: Data-driven tests, CI/CD integration, response validation
-- **Impact**: 85% API test coverage, catches breaking changes before deployment
-- [**View Repository**](https://github.com/hkant27008/api-test-suite)
-
-### 3. **Medical Device Test Validator** 🏥
-Automated validation framework for FDA-compliant medical device software.
-- **Tech Stack**: Selenium, Python, Jenkins
-- **Features**: Compliance reporting, traceability matrix, risk-based testing
-- **Impact**: 100% FDA approval rate, 45% reduction in validation time
-- [**View Repository**](https://github.com/hkant27008/medical-device-validator)
-
-### 4. **Cross-Browser Testing Grid** 🌐
-Scalable Selenium Grid setup for parallel cross-browser testing.
-- **Tech Stack**: Selenium Grid, Docker, BrowserStack
-- **Features**: 15+ browser/OS combinations, parallel execution
-- **Impact**: 95% browser compatibility, 70% faster regression cycles
-- [**View Repository**](https://github.com/hkant27008/cross-browser-grid)
+- [**View Repository**]([https://github.com/hkant27008/ecommerce-test-framework](https://github.com/hkant27008/amazon-test-intelligence)) | [**Documentation**](link-to-docs)
 
 ---
 
@@ -105,15 +84,6 @@ Scalable Selenium Grid setup for parallel cross-browser testing.
 
 ---
 
-## 📝 Recent Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-- [**Risk-Based Testing in FDA-Regulated Software**](https://medium.com/@harshitkant/risk-based-testing-fda)
-- [**Building Scalable Test Automation Frameworks**](https://dev.to/harshitkant/scalable-test-frameworks)
-- [**From Manual to Automated: A QA Journey**](https://www.linkedin.com/pulse/from-manual-automated-qa-journey-harshit-kant)
-- [**Cross-Browser Testing Best Practices**](https://medium.com/@harshitkant/cross-browser-testing)
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 ## 🏆 Certifications & Achievements
@@ -131,8 +101,6 @@ I'm always interested in discussing test automation, quality assurance strategie
 
 - 📧 Email: [hkant27008@gmail.com](mailto:hkant27008@gmail.com)
 - 💼 LinkedIn: [Harshit Kant](https://www.linkedin.com/in/harshit-kant-hk)
-- 🌐 Portfolio: [harshitkant.dev](https://harshitkant.dev)
-- 📝 Medium: [@harshitkant](https://medium.com/@harshitkant)
 
 ---
 
