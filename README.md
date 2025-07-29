@@ -66,6 +66,13 @@ A comprehensive Page Object Model framework for end-to-end testing of e-commerce
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
+
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkant27008&show_icons=true&theme=radical&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hkant27008&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hkant27008&theme=radical)](https://git.io/streak-stats)
 
 ## 📊 GitHub Activity
 
