@@ -61,7 +61,7 @@ A comprehensive Page Object Model framework for end-to-end testing of e-commerce
 - **Tech Stack**: Python, Playwright, pytest
 - **Features**: Parallel execution, smart waits, detailed reporting
 - **Impact**: 50% reduction in test maintenance, 100% pass rate on critical user journeys
-- [**View Repository**]([https://github.com/hkant27008/ecommerce-test-framework](https://github.com/hkant27008/amazon-test-intelligence)) | [**Documentation**](link-to-docs)
+- [**View Repository**]([https://github.com/hkant27008/ecommerce-test-framework](https://github.com/hkant27008/amazon-test-intelligence)) | [**Documentation**](https://github.com/hkant27008/amazon-test-intelligence/blob/main/README.md)
 
 ---
 ## 📊 GitHub Activity
